@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js" integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </head>
+  <body>
+    <div id="app" class="container my-3">
+      <section class="border rounded bg-body-secondary p-3 mb-3">
+        <div class="row mb-1">
+          <div class="col-sm-2">表示方法</div>
+          <div class="col-sm-10">
+            <div class="form-check form-check-inline" v-for="(vs, idx) in viewSettingList">
+              <input class="form-check-input" type="radio" name="viewSettingOption" v-bind:id="'viewSettingOption' + idx" v-bind:value="vs" v-model="selectedViewSetting">
+              <label class="form-check-label" v-bind:for="'viewSettingOption' + idx">{{vs}}</label>
+            </div>
+          </div>
+        </div>
+        <div class="row mb-1" v-if="selectedViewSetting === 'グリッド表示'">
+          <div class="col-sm-2">表示オプション</div>
+          <div class="col-sm-5">
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="checkbox" id="useElementColorFilterOption" v-model="useElementColorFilter">
+              <label class="form-check-label" for="useElementColorFilterOption">アイコンに属性カラーのシャドウを付与する</label>
+            </div>
+          </div>
+          <div class="col-sm-5">
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="checkbox" id="showIdOption" v-model="showId">
+              <label class="form-check-label" for="showIdOption">アイコンの上に図鑑番号を表示する</label>
+            </div>
+          </div>
+        </div>
+        <div class="row mb-1">
+          <div class="col-sm-2">属性</div>
+          <div class="col-sm-10">
+            <div class="form-check form-check-inline" v-for="(element, idx) in elements">
+              <input class="form-check-input" type="checkbox" v-bind:id="'elementOption' + idx" v-bind:value="element" v-model="selectedElements">
+              <label class="form-check-label" v-bind:for="'elementOption' + idx">{{element}}</label>
+            </div>
+            <a class="icon-link" href="#" v-on:click.prevent="onClickCheckAllElements">全属性をチェック</a>
+          </div>
+        </div>
+        <div class="row mb-1">
+          <div class="col-sm-2">排出対象ガチャ</div>
+          <div class="col-sm-7">
+            <select class="form-select" aria-label="Default select example" v-model="selectedGacha">
+              <option selected>全てのガチャ</option>
+              <option v-for="(gacha, idx) in gachas" v-bind:value="gacha">{{gacha}}</option>
+            </select>
+          </div>
+        </div>
+        <div class="row mb-1">
+          <div class="col-sm-2">進化形態</div>
+          <div class="col-sm-10">
+            <div class="form-check form-check-inline" v-for="(form, idx) in formFilterList">
+              <input class="form-check-input" type="radio" name="formFilterOption" v-bind:id="'formFilterOption' + idx" v-bind:value="form" v-model="selectedFormFilter">
+              <label class="form-check-label" v-bind:for="'formFilterOption' + idx">{{form}}</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="checkbox" id="onlyLatestFormOption" v-model="onlyLatestForm">
+              <label class="form-check-label" for="onlyLatestFormOption">最終形態のみ表示</label>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-2">アイコンのサイズ</div>
+          <div class="col-sm-10">
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="radio" name="iconSizeOption" id="iconSizeOption1" value="50" v-model="iconSize">
+              <label class="form-check-label" for="iconSizeOption1">小</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="radio" name="iconSizeOption" id="iconSizeOption2" value="75" v-model="iconSize">
+              <label class="form-check-label" for="iconSizeOption2">中</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="radio" name="iconSizeOption" id="iconSizeOption3" value="100" v-model="iconSize">
+              <label class="form-check-label" for="iconSizeOption3">大</label>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section v-if="selectedViewSetting === 'リスト表示'">
+        <section class="mb-4" v-for="(monsters, year) in calcMonstersGroupByYears()">
+          <h4 class="text-center p-2 border-bottom">{{year}}年（{{monsters.length}}体）</h4>
+  
+          <table class="table table-hover">
+            <col width="50">
+            <col width="90" valign="middle">
+            <col align="left" valign="middle">
+            <col width="100" valign="middle">
+            <col width="80" valign="middle">
+            <col width="120" valign="middle">
+            <thead>
+              <tr>
+                <th></th>
+                <th>図鑑番号</th>
+                <th>名前</th>
+                <th>進化形態</th>
+                <th>属性</th>
+                <th>実装日</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(monster, index) in monsters" v-bind:data-element="monster.element">
+                <td class="align-middle">
+                  <a class="d-block" v-bind:href="monster.url" target="monstdic">
+                    <picture class="d-block" v-bind:style="{'width': iconSize + 'px'}">
+                      <source type="image/webp" v-bind:srcset="monster.webp" />
+                      <img v-bind:width="iconSize" v-bind:src="monster.png" v-bind:alt="monster.shortName" loading="lazy" />
+                    </picture>
+                  </a>
+                </td>
+                <td class="align-middle">No.{{monster.id}}</td>
+                <td class="align-middle">{{monster.shortName}}</td>
+                <td class="align-middle">{{monster.formFullName}}</td>
+                <td class="align-middle">{{monster.element}}</td>
+                <td class="align-middle">{{monster.fromDate}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+      </section>
+
+      <section v-if="selectedViewSetting === 'グリッド表示'" v-bind:class="{'small-icon': iconSize === '50'}">
+        <section class="mb-4" v-for="(monsters, year) in calcMonstersGroupByYears()">
+          <h4 class="text-center p-2 border-bottom">{{year}}年（{{monsters.length}}体）</h4>
+          <div class="d-flex flex-wrap align-items-start">
+            <div class="p-2 mb-2 monster-col" v-for="(monster, index) in monsters" v-bind:data-element="monster.element" v-bind:class="{'use-color-filter': useElementColorFilter, 'show-id': showId}">
+              <a class="d-block" v-bind:href="monster.url" target="monstdic" v-bind:data-monster-name="monster.shortName + monster.formFullName" v-bind:data-no="'No.' + monster.id">
+                <picture class="d-block" v-bind:style="{'width': iconSize + 'px'}">
+                  <source type="image/webp" v-bind:srcset="monster.webp" />
+                  <img v-bind:width="iconSize" v-bind:src="monster.png" v-bind:alt="monster.shortName" loading="lazy" />
+                </picture>
+              </a>
+            </div>
+          </div>
+        </section>
+      </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+  </body>
+</html>

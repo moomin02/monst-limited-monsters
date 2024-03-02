@@ -4,6 +4,7 @@
 
 :root {
     --bs-body-bg: var(--bs-gray-100);
+    font-family: "M PLUS 1p", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif;
 }
 .text-bg-red {
     color: #fff!important;
@@ -29,6 +30,7 @@
 [data-monster-name] {
     position: relative;
 }
+/* 
 [data-monster-name]:hover::after {
     content: attr(data-monster-name);
     display: block;
@@ -46,6 +48,24 @@
     text-decoration: none;
     z-index: 100;
     border-radius: 3px;
+} */
+.monster-col-name {
+    background-color: rgba(0, 0, 0, 0.75);
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    font-family: "M PLUS 1p", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 12px;
+    margin: 4px 0 0;
+    padding: 4px 3px;
+    text-align: center;
+    text-size-adjust: 100%;
+    text-wrap: wrap;
+    vertical-align: baseline;
+    white-space-collapse: preserve;
 }
 
 .use-color-filter[data-element="火属性"] img {

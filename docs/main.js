@@ -240,7 +240,7 @@ createApp({
      * 画面上のフィルタ設定に則って、年ごとのモンスター一覧を生成して返却する.
      * @returns {{[year:string]:VueMonster[]}}
      */
-    function calcMonstersGroupByYears() {
+    function calcMonstersGroup() {
       return _.groupBy(
         _.filter(monsters.value, (monster) => {
           if (selectedGacha.value !== DEFAULT_GACHA_FILTER_NAME &&
@@ -275,7 +275,7 @@ createApp({
           }
           return true;
         }),
-        (monster) => monster.year);
+        (monster) => monster.year + '年');
     }
 
     /**
@@ -312,7 +312,7 @@ createApp({
       onlyLatestForm,
       onlyOneSideForm,
       iconSize,
-      calcMonstersGroupByYears,
+      calcMonstersGroup,
       onClickCheckAllElements,
       toggleDarkMode
     }

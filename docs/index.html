@@ -107,8 +107,8 @@
       </nav>
 
       <section v-if="selectedViewSetting === 'リスト表示'">
-        <section class="mb-4" v-for="(monsters, year) in calcMonstersGroupByYears()">
-          <h4 class="text-center p-2 border-bottom">{{year}}年（{{monsters.length}}体）</h4>
+        <section class="mb-4" v-for="(monsters, groupName) in calcMonstersGroup()">
+          <h4 class="text-center p-2 border-bottom">{{groupName}}（{{monsters.length}}体）</h4>
   
           <table class="table table-hover">
             <col width="50">
@@ -153,8 +153,8 @@
         v-bind:class="{'small-icon': iconSize === '50'}">
         <section
           class="mb-4"
-          v-for="(monsters, year) in calcMonstersGroupByYears()">
-          <h4 class="text-center p-2 border-bottom">{{year}}年（{{monsters.length}}体）</h4>
+          v-for="(monsters, groupName) in calcMonstersGroup()">
+          <h4 class="text-center p-2 border-bottom">{{groupName}}（{{monsters.length}}体）</h4>
           <div class="d-flex flex-wrap">
             <div
               class="monster-col p-2 mb-2"

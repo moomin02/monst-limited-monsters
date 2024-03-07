@@ -118,7 +118,9 @@ function compareForm(a, b) {
 }
 
 async function getLimitedGachaInfo() {
-  const res = await fetch(MONSTER_JSON_URL);
+  const res = await fetch(MONSTER_JSON_URL + '?' + (function (now) {
+    return (now - now % (24 * 60 * 60 * 1000)) / 1000;
+  }(Date.now())));
 
   /** @type {MonstersJson} */
   const monstersJson = await res.json();

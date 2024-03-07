@@ -12,28 +12,6 @@
       "since": "2013/11/08"
     },
     {
-      "id": "1628",
-      "relation": "191",
-      "dicId": "1628",
-      "shortName": "アグナムート",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2015/10/28"
-    },
-    {
-      "id": "4540",
-      "relation": "191",
-      "dicId": "4548",
-      "shortName": "アグナムート",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2020/01/14"
-    },
-    {
       "id": "197",
       "relation": "197",
       "dicId": "197",
@@ -43,39 +21,6 @@
       "element": "光",
       "gacha": "モンストジェネレーション 2013&2014",
       "since": "2013/09/27"
-    },
-    {
-      "id": "1631",
-      "relation": "197",
-      "dicId": "1631",
-      "shortName": "ストライク",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2015/10/28"
-    },
-    {
-      "id": "4348",
-      "relation": "197",
-      "dicId": "4348",
-      "shortName": "ストライク",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2019/10/08"
-    },
-    {
-      "id": "7322",
-      "relation": "197",
-      "dicId": "6414",
-      "shortName": "ストライク",
-      "form": "真獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2023/10/07"
     },
     {
       "id": "257",
@@ -89,28 +34,6 @@
       "since": "2013/11/01"
     },
     {
-      "id": "2351",
-      "relation": "257",
-      "dicId": "2351",
-      "shortName": "ハーレーX",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2016/12/08"
-    },
-    {
-      "id": "5090",
-      "relation": "257",
-      "dicId": "5090",
-      "shortName": "ハーレーX",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2020/10/05"
-    },
-    {
       "id": "280",
       "relation": "280",
       "dicId": "280",
@@ -120,28 +43,6 @@
       "element": "火",
       "gacha": "モンストジェネレーション 2013&2014",
       "since": "2013/12/16"
-    },
-    {
-      "id": "1629",
-      "relation": "280",
-      "dicId": "1629",
-      "shortName": "アグナムートX",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2015/10/28"
-    },
-    {
-      "id": "4541",
-      "relation": "280",
-      "dicId": "4549",
-      "shortName": "アグナムートX",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2020/01/14"
     },
     {
       "id": "364",
@@ -155,28 +56,6 @@
       "since": "2014/02/01"
     },
     {
-      "id": "3270",
-      "relation": "364",
-      "dicId": "3270",
-      "shortName": "アポロX",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2018/03/24"
-    },
-    {
-      "id": "5851",
-      "relation": "364",
-      "dicId": "5851",
-      "shortName": "アポロX",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2021/10/05"
-    },
-    {
       "id": "368",
       "relation": "368",
       "dicId": "368",
@@ -186,28 +65,6 @@
       "element": "水",
       "gacha": "モンストジェネレーション 2013&2014",
       "since": "2014/02/01"
-    },
-    {
-      "id": "2837",
-      "relation": "368",
-      "dicId": "2837",
-      "shortName": "織田信長X",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2017/08/15"
-    },
-    {
-      "id": "6900",
-      "relation": "368",
-      "dicId": "6336",
-      "shortName": "織田信長X",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2023/03/19"
     },
     {
       "id": "374",
@@ -221,28 +78,6 @@
       "since": "2014/02/01"
     },
     {
-      "id": "2385",
-      "relation": "374",
-      "dicId": "2385",
-      "shortName": "ランスロットX",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2016/12/20"
-    },
-    {
-      "id": "6586",
-      "relation": "374",
-      "dicId": "6279",
-      "shortName": "ランスロットX",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2022/10/02"
-    },
-    {
       "id": "510",
       "relation": "510",
       "dicId": "510",
@@ -252,28 +87,6 @@
       "element": "闇",
       "gacha": "モンストジェネレーション 2013&2014",
       "since": "2014/05/01"
-    },
-    {
-      "id": "3652",
-      "relation": "510",
-      "dicId": "3721",
-      "shortName": "アリス",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2018/10/09"
-    },
-    {
-      "id": "6598",
-      "relation": "510",
-      "dicId": "6284",
-      "shortName": "アリス",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2022/10/02"
     },
     {
       "id": "559",
@@ -287,28 +100,6 @@
       "since": "2014/05/01"
     },
     {
-      "id": "3517",
-      "relation": "559",
-      "dicId": "3517",
-      "shortName": "ナポレオン",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2018/07/24"
-    },
-    {
-      "id": "4947",
-      "relation": "559",
-      "dicId": "4945",
-      "shortName": "ナポレオン",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2020/08/11"
-    },
-    {
       "id": "825",
       "relation": "825",
       "dicId": "825",
@@ -318,28 +109,6 @@
       "element": "木",
       "gacha": "モンストジェネレーション 2013&2014",
       "since": "2014/09/26"
-    },
-    {
-      "id": "2427",
-      "relation": "825",
-      "dicId": "2427",
-      "shortName": "チンギス・ハン",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2017/01/11"
-    },
-    {
-      "id": "6142",
-      "relation": "825",
-      "dicId": "6142",
-      "shortName": "チンギス・ハン",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2022/03/13"
     },
     {
       "id": "871",
@@ -353,28 +122,6 @@
       "since": "2014/10/18"
     },
     {
-      "id": "2528",
-      "relation": "871",
-      "dicId": "2528",
-      "shortName": "クレオパトラ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2017/03/14"
-    },
-    {
-      "id": "5667",
-      "relation": "871",
-      "dicId": "5667",
-      "shortName": "クレオパトラ",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2021/07/27"
-    },
-    {
       "id": "890",
       "relation": "890",
       "dicId": "890",
@@ -384,28 +131,6 @@
       "element": "火",
       "gacha": "モンストジェネレーション 2013&2014",
       "since": "2014/11/18"
-    },
-    {
-      "id": "2144",
-      "relation": "890",
-      "dicId": "2144",
-      "shortName": "ミカエル",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2016/08/22"
-    },
-    {
-      "id": "6729",
-      "relation": "890",
-      "dicId": "6314",
-      "shortName": "ミカエル",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2022/12/24"
     },
     {
       "id": "893",
@@ -419,6 +144,160 @@
       "since": "2014/10/29"
     },
     {
+      "id": "929",
+      "relation": "929",
+      "dicId": "929",
+      "shortName": "ウリエル",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2014/11/15"
+    },
+    {
+      "id": "969",
+      "relation": "969",
+      "dicId": "969",
+      "shortName": "ジャンヌ・ダルク",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2014/11/26"
+    },
+    {
+      "id": "1030",
+      "relation": "1030",
+      "dicId": "1030",
+      "shortName": "ルシファー",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2015/01/01"
+    },
+    {
+      "id": "1249",
+      "relation": "1249",
+      "dicId": "1249",
+      "shortName": "天草四郎",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2015/04/01"
+    },
+    {
+      "id": "1387",
+      "relation": "1387",
+      "dicId": "1387",
+      "shortName": "卑弥呼",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2015/06/29"
+    },
+    {
+      "id": "1590",
+      "relation": "1590",
+      "dicId": "1590",
+      "shortName": "妲己",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2015/10/10"
+    },
+    {
+      "id": "1628",
+      "relation": "191",
+      "dicId": "1628",
+      "shortName": "アグナムート",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2015/10/28"
+    },
+    {
+      "id": "1629",
+      "relation": "280",
+      "dicId": "1629",
+      "shortName": "アグナムートX",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2015/10/28"
+    },
+    {
+      "id": "1631",
+      "relation": "197",
+      "dicId": "1631",
+      "shortName": "ストライク",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2015/10/28"
+    },
+    {
+      "id": "1683",
+      "relation": "1683",
+      "dicId": "1683",
+      "shortName": "デッドラビッツLtd.",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2015/12/05"
+    },
+    {
+      "id": "1718",
+      "relation": "1718",
+      "dicId": "1718",
+      "shortName": "ジキル＆ハイド",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2015/12/15"
+    },
+    {
+      "id": "1733",
+      "relation": "1733",
+      "dicId": "1733",
+      "shortName": "ダルタニャン",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2015/12/19"
+    },
+    {
+      "id": "1742",
+      "relation": "1742",
+      "dicId": "1742",
+      "shortName": "ガブリエル",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2016/01/01"
+    },
+    {
+      "id": "1745",
+      "relation": "1745",
+      "dicId": "1745",
+      "shortName": "神威",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2016/01/01"
+    },
+    {
       "id": "1929",
       "relation": "893",
       "dicId": "1929",
@@ -430,26 +309,48 @@
       "since": "2016/04/05"
     },
     {
-      "id": "5979",
-      "relation": "893",
-      "dicId": "5979",
-      "shortName": "ラファエル",
-      "form": "獣神化・改",
+      "id": "1936",
+      "relation": "1936",
+      "dicId": "1936",
+      "shortName": "ロビン・フッド",
+      "form": "進化前",
       "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2021/12/24"
+      "element": "木",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2016/04/15"
     },
     {
-      "id": "929",
-      "relation": "929",
-      "dicId": "929",
-      "shortName": "ウリエル",
+      "id": "2054",
+      "relation": "2054",
+      "dicId": "2054",
+      "shortName": "ノア",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2016/06/29"
+    },
+    {
+      "id": "2142",
+      "relation": "2142",
+      "dicId": "2142",
+      "shortName": "キスキル・リラ",
       "form": "進化前",
       "formIdx": "0",
       "element": "光",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2016/08/23"
+    },
+    {
+      "id": "2144",
+      "relation": "890",
+      "dicId": "2144",
+      "shortName": "ミカエル",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
       "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2014/11/15"
+      "since": "2016/08/22"
     },
     {
       "id": "2239",
@@ -474,37 +375,70 @@
       "since": "2016/10/12"
     },
     {
-      "id": "4893",
-      "relation": "929",
-      "dicId": "4893",
-      "shortName": "ウリエル",
-      "form": "獣神化・改",
-      "formIdx": "1",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2020/07/14"
-    },
-    {
-      "id": "4894",
-      "relation": "929",
-      "dicId": "4894",
-      "shortName": "ウリエル",
-      "form": "獣神化・改",
-      "formIdx": "2",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2020/07/14"
-    },
-    {
-      "id": "969",
-      "relation": "969",
-      "dicId": "969",
-      "shortName": "ジャンヌ・ダルク",
+      "id": "2241",
+      "relation": "2241",
+      "dicId": "2241",
+      "shortName": "ナイチンゲール",
       "form": "進化前",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2016/10/14"
+    },
+    {
+      "id": "2351",
+      "relation": "257",
+      "dicId": "2351",
+      "shortName": "ハーレーX",
+      "form": "獣神化",
       "formIdx": "0",
       "element": "闇",
       "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2014/11/26"
+      "since": "2016/12/08"
+    },
+    {
+      "id": "2385",
+      "relation": "374",
+      "dicId": "2385",
+      "shortName": "ランスロットX",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2016/12/20"
+    },
+    {
+      "id": "2397",
+      "relation": "2397",
+      "dicId": "2397",
+      "shortName": "パンドラ",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンコレDX",
+      "since": "2017/01/01"
+    },
+    {
+      "id": "2427",
+      "relation": "825",
+      "dicId": "2427",
+      "shortName": "チンギス・ハン",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2017/01/11"
+    },
+    {
+      "id": "2528",
+      "relation": "871",
+      "dicId": "2528",
+      "shortName": "クレオパトラ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2017/03/14"
     },
     {
       "id": "2547",
@@ -518,158 +452,70 @@
       "since": "2017/03/22"
     },
     {
-      "id": "6224",
-      "relation": "969",
-      "dicId": "6203",
-      "shortName": "ジャンヌ・ダルク",
-      "form": "獣神化・改",
+      "id": "2572",
+      "relation": "2572",
+      "dicId": "2572",
+      "shortName": "ワルプルギス",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2017/04/14"
+    },
+    {
+      "id": "2722",
+      "relation": "2722",
+      "dicId": "2722",
+      "shortName": "ノストラダムス",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンコレDX",
+      "since": "2017/06/29"
+    },
+    {
+      "id": "2746",
+      "relation": "2746",
+      "dicId": "2746",
+      "shortName": "背徳ピストルズ",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2017/07/08"
+    },
+    {
+      "id": "2749",
+      "relation": "2749",
+      "dicId": "2749",
+      "shortName": "Two for all",
+      "form": "進化前",
       "formIdx": "0",
       "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2017/07/08"
+    },
+    {
+      "id": "2762",
+      "relation": "2142",
+      "dicId": "2762",
+      "shortName": "キスキル・リラ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2017/07/11"
+    },
+    {
+      "id": "2837",
+      "relation": "368",
+      "dicId": "2837",
+      "shortName": "織田信長X",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
       "gacha": "モンストジェネレーション 2013&2014",
-      "since": "2022/04/27"
-    },
-    {
-      "id": "1030",
-      "relation": "1030",
-      "dicId": "1030",
-      "shortName": "ルシファー",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2015/01/01"
-    },
-    {
-      "id": "3482",
-      "relation": "1030",
-      "dicId": "3482",
-      "shortName": "ルシファー",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2018/07/01"
-    },
-    {
-      "id": "7131",
-      "relation": "1030",
-      "dicId": "6383",
-      "shortName": "ルシファー",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2023/07/09"
-    },
-    {
-      "id": "1249",
-      "relation": "1249",
-      "dicId": "1249",
-      "shortName": "天草四郎",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2015/04/01"
-    },
-    {
-      "id": "3383",
-      "relation": "1249",
-      "dicId": "3383",
-      "shortName": "天草四郎",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2018/05/22"
-    },
-    {
-      "id": "7137",
-      "relation": "1249",
-      "dicId": "6382",
-      "shortName": "天草四郎",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2023/07/13"
-    },
-    {
-      "id": "1387",
-      "relation": "1387",
-      "dicId": "1387",
-      "shortName": "卑弥呼",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2015/06/29"
-    },
-    {
-      "id": "3569",
-      "relation": "1387",
-      "dicId": "3569",
-      "shortName": "卑弥呼",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2018/08/30"
-    },
-    {
-      "id": "6452",
-      "relation": "1387",
-      "dicId": "6254",
-      "shortName": "卑弥呼",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2022/08/02"
-    },
-    {
-      "id": "1590",
-      "relation": "1590",
-      "dicId": "1590",
-      "shortName": "妲己",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2015/10/10"
-    },
-    {
-      "id": "2944",
-      "relation": "1590",
-      "dicId": "3776",
-      "shortName": "妲己",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2017/10/13"
-    },
-    {
-      "id": "7280",
-      "relation": "1590",
-      "dicId": "6404",
-      "shortName": "妲己",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2023/09/30"
-    },
-    {
-      "id": "1683",
-      "relation": "1683",
-      "dicId": "1683",
-      "shortName": "デッドラビッツLtd.",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2015/12/05"
+      "since": "2017/08/15"
     },
     {
       "id": "2881",
@@ -683,37 +529,37 @@
       "since": "2017/09/12"
     },
     {
-      "id": "5623",
-      "relation": "1683",
-      "dicId": "5623",
-      "shortName": "デッドラビッツLtd.",
-      "form": "獣神化・改",
-      "formIdx": "1",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2021/07/14"
+      "id": "2907",
+      "relation": "1745",
+      "dicId": "2907",
+      "shortName": "神威",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2017/09/26"
     },
     {
-      "id": "5624",
-      "relation": "1683",
-      "dicId": "5624",
-      "shortName": "デッドラビッツLtd.",
-      "form": "獣神化・改",
-      "formIdx": "2",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2021/07/14"
-    },
-    {
-      "id": "1718",
-      "relation": "1718",
-      "dicId": "1718",
-      "shortName": "ジキル＆ハイド",
+      "id": "2941",
+      "relation": "2941",
+      "dicId": "2941",
+      "shortName": "ミロク",
       "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2017/10/13"
+    },
+    {
+      "id": "2944",
+      "relation": "1590",
+      "dicId": "3776",
+      "shortName": "妲己",
+      "form": "獣神化",
       "formIdx": "0",
       "element": "闇",
       "gacha": "モンストジェネレーション 2015",
-      "since": "2015/12/15"
+      "since": "2017/10/13"
     },
     {
       "id": "3077",
@@ -727,26 +573,15 @@
       "since": "2017/12/19"
     },
     {
-      "id": "6407",
-      "relation": "1718",
-      "dicId": "6253",
-      "shortName": "ジキル＆ハイド",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2022/07/15"
-    },
-    {
-      "id": "1733",
-      "relation": "1733",
-      "dicId": "1733",
-      "shortName": "ダルタニャン",
+      "id": "3086",
+      "relation": "3086",
+      "dicId": "3086",
+      "shortName": "マナ",
       "form": "進化前",
       "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2015/12/19"
+      "element": "火",
+      "gacha": "モンコレDX",
+      "since": "2018/01/01"
     },
     {
       "id": "3139",
@@ -760,26 +595,246 @@
       "since": "2018/01/27"
     },
     {
-      "id": "6391",
-      "relation": "1733",
-      "dicId": "6244",
-      "shortName": "ダルタニャン",
-      "form": "獣神化・改",
+      "id": "3242",
+      "relation": "3242",
+      "dicId": "3242",
+      "shortName": "弁財天",
+      "form": "進化前",
       "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2015",
-      "since": "2022/07/09"
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2018/03/10"
     },
     {
-      "id": "1742",
-      "relation": "1742",
-      "dicId": "1742",
-      "shortName": "ガブリエル",
+      "id": "3270",
+      "relation": "364",
+      "dicId": "3270",
+      "shortName": "アポロX",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2018/03/24"
+    },
+    {
+      "id": "3280",
+      "relation": "3280",
+      "dicId": "3280",
+      "shortName": "サンダルフォン",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2018/04/02"
+    },
+    {
+      "id": "3294",
+      "relation": "3294",
+      "dicId": "3294",
+      "shortName": "メタトロン",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2018/04/07"
+    },
+    {
+      "id": "3299",
+      "relation": "3299",
+      "dicId": "3299",
+      "shortName": "ザドキエル",
       "form": "進化前",
       "formIdx": "0",
       "element": "木",
+      "gacha": "グリーンファンタジー",
+      "since": "2018/04/12"
+    },
+    {
+      "id": "3316",
+      "relation": "3316",
+      "dicId": "3316",
+      "shortName": "ラミエル",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2018/04/17"
+    },
+    {
+      "id": "3329",
+      "relation": "3329",
+      "dicId": "3329",
+      "shortName": "カマエル",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2018/04/22"
+    },
+    {
+      "id": "3383",
+      "relation": "1249",
+      "dicId": "3383",
+      "shortName": "天草四郎",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2018/05/22"
+    },
+    {
+      "id": "3387",
+      "relation": "3387",
+      "dicId": "3391",
+      "shortName": "石川五右衛門",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンコレDX",
+      "since": "2018/05/30"
+    },
+    {
+      "id": "3450",
+      "relation": "3450",
+      "dicId": "3450",
+      "shortName": "デビルズ・パンク・インフェルノ",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2018/06/29"
+    },
+    {
+      "id": "3482",
+      "relation": "1030",
+      "dicId": "3482",
+      "shortName": "ルシファー",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2018/07/01"
+    },
+    {
+      "id": "3517",
+      "relation": "559",
+      "dicId": "3517",
+      "shortName": "ナポレオン",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2018/07/24"
+    },
+    {
+      "id": "3569",
+      "relation": "1387",
+      "dicId": "3569",
+      "shortName": "卑弥呼",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2018/08/30"
+    },
+    {
+      "id": "3570",
+      "relation": "3570",
+      "dicId": "3570",
+      "shortName": "モーセ",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンコレDX",
+      "since": "2018/08/30"
+    },
+    {
+      "id": "3652",
+      "relation": "510",
+      "dicId": "3721",
+      "shortName": "アリス",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2018/10/09"
+    },
+    {
+      "id": "3659",
+      "relation": "3659",
+      "dicId": "3659",
+      "shortName": "小野小町",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2018/10/13"
+    },
+    {
+      "id": "3811",
+      "relation": "3811",
+      "dicId": "3811",
+      "shortName": "ソロモン",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンコレDX",
+      "since": "2019/01/01"
+    },
+    {
+      "id": "3889",
+      "relation": "2572",
+      "dicId": "3889",
+      "shortName": "ワルプルギス",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2019/02/12"
+    },
+    {
+      "id": "3950",
+      "relation": "3950",
+      "dicId": "3950",
+      "shortName": "ワタツミ",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2019/03/14"
+    },
+    {
+      "id": "4008",
+      "relation": "2241",
+      "dicId": "4007",
+      "shortName": "ナイチンゲール",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
       "gacha": "モンストジェネレーション 2016",
-      "since": "2016/01/01"
+      "since": "2019/04/09"
+    },
+    {
+      "id": "4146",
+      "relation": "4146",
+      "dicId": "4145",
+      "shortName": "シャーロック・ホームズ",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンコレDX",
+      "since": "2019/06/29"
+    },
+    {
+      "id": "4175",
+      "relation": "4175",
+      "dicId": "4175",
+      "shortName": "Angely Diva",
+      "form": "進化前",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2019/07/13"
     },
     {
       "id": "4184",
@@ -804,699 +859,6 @@
       "since": "2019/07/14"
     },
     {
-      "id": "7309",
-      "relation": "1742",
-      "dicId": "6411",
-      "shortName": "ガブリエル",
-      "form": "獣神化・改",
-      "formIdx": "1",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2023/10/02"
-    },
-    {
-      "id": "7310",
-      "relation": "1742",
-      "dicId": "6412",
-      "shortName": "ガブリエル",
-      "form": "獣神化・改",
-      "formIdx": "2",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2023/10/02"
-    },
-    {
-      "id": "1745",
-      "relation": "1745",
-      "dicId": "1745",
-      "shortName": "神威",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2016/01/01"
-    },
-    {
-      "id": "2907",
-      "relation": "1745",
-      "dicId": "2907",
-      "shortName": "神威",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2017/09/26"
-    },
-    {
-      "id": "7314",
-      "relation": "1745",
-      "dicId": "6409",
-      "shortName": "神威",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2023/10/04"
-    },
-    {
-      "id": "1936",
-      "relation": "1936",
-      "dicId": "1936",
-      "shortName": "ロビン・フッド",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2016/04/15"
-    },
-    {
-      "id": "4345",
-      "relation": "1936",
-      "dicId": "4345",
-      "shortName": "ロビン・フッド",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2019/10/05"
-    },
-    {
-      "id": "2054",
-      "relation": "2054",
-      "dicId": "2054",
-      "shortName": "ノア",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2016/06/29"
-    },
-    {
-      "id": "4264",
-      "relation": "2054",
-      "dicId": "4264",
-      "shortName": "ノア",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2019/08/24"
-    },
-    {
-      "id": "2142",
-      "relation": "2142",
-      "dicId": "2142",
-      "shortName": "キスキル・リラ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2016/08/23"
-    },
-    {
-      "id": "2762",
-      "relation": "2142",
-      "dicId": "2762",
-      "shortName": "キスキル・リラ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2017/07/11"
-    },
-    {
-      "id": "5866",
-      "relation": "2142",
-      "dicId": "5866",
-      "shortName": "キスキル・リラ",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2021/10/19"
-    },
-    {
-      "id": "2241",
-      "relation": "2241",
-      "dicId": "2241",
-      "shortName": "ナイチンゲール",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2016/10/14"
-    },
-    {
-      "id": "4008",
-      "relation": "2241",
-      "dicId": "4007",
-      "shortName": "ナイチンゲール",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンストジェネレーション 2016",
-      "since": "2019/04/09"
-    },
-    {
-      "id": "2397",
-      "relation": "2397",
-      "dicId": "2397",
-      "shortName": "パンドラ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンコレDX",
-      "since": "2017/01/01"
-    },
-    {
-      "id": "4889",
-      "relation": "2397",
-      "dicId": "4889",
-      "shortName": "パンドラ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンコレDX",
-      "since": "2020/07/11"
-    },
-    {
-      "id": "2572",
-      "relation": "2572",
-      "dicId": "2572",
-      "shortName": "ワルプルギス",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2017/04/14"
-    },
-    {
-      "id": "3889",
-      "relation": "2572",
-      "dicId": "3889",
-      "shortName": "ワルプルギス",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2019/02/12"
-    },
-    {
-      "id": "6989",
-      "relation": "2572",
-      "dicId": "6345",
-      "shortName": "ワルプルギス",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2023/05/05"
-    },
-    {
-      "id": "2722",
-      "relation": "2722",
-      "dicId": "2722",
-      "shortName": "ノストラダムス",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンコレDX",
-      "since": "2017/06/29"
-    },
-    {
-      "id": "4343",
-      "relation": "2722",
-      "dicId": "4327",
-      "shortName": "ノストラダムス",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンコレDX",
-      "since": "2019/10/05"
-    },
-    {
-      "id": "2746",
-      "relation": "2746",
-      "dicId": "2746",
-      "shortName": "背徳ピストルズ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2017/07/08"
-    },
-    {
-      "id": "5360",
-      "relation": "2746",
-      "dicId": "5360",
-      "shortName": "背徳ピストルズ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2021/02/23"
-    },
-    {
-      "id": "2749",
-      "relation": "2749",
-      "dicId": "2749",
-      "shortName": "Two for all",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2017/07/08"
-    },
-    {
-      "id": "4740",
-      "relation": "2749",
-      "dicId": "4740",
-      "shortName": "Two for all",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2020/04/25"
-    },
-    {
-      "id": "2941",
-      "relation": "2941",
-      "dicId": "2941",
-      "shortName": "ミロク",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2017/10/13"
-    },
-    {
-      "id": "4587",
-      "relation": "2941",
-      "dicId": "4587",
-      "shortName": "ミロク",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2020/02/11"
-    },
-    {
-      "id": "7468",
-      "relation": "2941",
-      "dicId": "6453",
-      "shortName": "ミロク",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2023/12/25"
-    },
-    {
-      "id": "3086",
-      "relation": "3086",
-      "dicId": "3086",
-      "shortName": "マナ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンコレDX",
-      "since": "2018/01/01"
-    },
-    {
-      "id": "5057",
-      "relation": "3086",
-      "dicId": "5057",
-      "shortName": "マナ",
-      "form": "獣神化",
-      "formIdx": "1",
-      "element": "火",
-      "gacha": "モンコレDX",
-      "since": "2020/10/04"
-    },
-    {
-      "id": "5058",
-      "relation": "3086",
-      "dicId": "5058",
-      "shortName": "マナ",
-      "form": "獣神化",
-      "formIdx": "2",
-      "element": "火",
-      "gacha": "モンコレDX",
-      "since": "2020/10/04"
-    },
-    {
-      "id": "3242",
-      "relation": "3242",
-      "dicId": "3242",
-      "shortName": "弁財天",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2018/03/10"
-    },
-    {
-      "id": "5053",
-      "relation": "3242",
-      "dicId": "5053",
-      "shortName": "弁財天",
-      "form": "獣神化",
-      "formIdx": "1",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2020/10/03"
-    },
-    {
-      "id": "5055",
-      "relation": "3242",
-      "dicId": "5055",
-      "shortName": "弁財天",
-      "form": "獣神化",
-      "formIdx": "2",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2020/10/03"
-    },
-    {
-      "id": "3280",
-      "relation": "3280",
-      "dicId": "3280",
-      "shortName": "サンダルフォン",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2018/04/02"
-    },
-    {
-      "id": "5616",
-      "relation": "3280",
-      "dicId": "5616",
-      "shortName": "サンダルフォン",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2021/07/11"
-    },
-    {
-      "id": "3294",
-      "relation": "3294",
-      "dicId": "3294",
-      "shortName": "メタトロン",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2018/04/07"
-    },
-    {
-      "id": "5617",
-      "relation": "3294",
-      "dicId": "5617",
-      "shortName": "メタトロン",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2021/07/11"
-    },
-    {
-      "id": "3299",
-      "relation": "3299",
-      "dicId": "3299",
-      "shortName": "ザドキエル",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "グリーンファンタジー",
-      "since": "2018/04/12"
-    },
-    {
-      "id": "5614",
-      "relation": "3299",
-      "dicId": "5614",
-      "shortName": "ザドキエル",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "グリーンファンタジー",
-      "since": "2021/07/11"
-    },
-    {
-      "id": "3316",
-      "relation": "3316",
-      "dicId": "3316",
-      "shortName": "ラミエル",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2018/04/17"
-    },
-    {
-      "id": "5612",
-      "relation": "3316",
-      "dicId": "5612",
-      "shortName": "ラミエル",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2021/07/11"
-    },
-    {
-      "id": "3329",
-      "relation": "3329",
-      "dicId": "3329",
-      "shortName": "カマエル",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2018/04/22"
-    },
-    {
-      "id": "5610",
-      "relation": "3329",
-      "dicId": "5610",
-      "shortName": "カマエル",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2021/07/11"
-    },
-    {
-      "id": "3387",
-      "relation": "3387",
-      "dicId": "3391",
-      "shortName": "石川五右衛門",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンコレDX",
-      "since": "2018/05/30"
-    },
-    {
-      "id": "5463",
-      "relation": "3387",
-      "dicId": "5463",
-      "shortName": "石川五右衛門",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "モンコレDX",
-      "since": "2021/04/25"
-    },
-    {
-      "id": "3450",
-      "relation": "3450",
-      "dicId": "3450",
-      "shortName": "デビルズ・パンク・インフェルノ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2018/06/29"
-    },
-    {
-      "id": "5608",
-      "relation": "3450",
-      "dicId": "5608",
-      "shortName": "デビルズ・パンク・インフェルノ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2021/07/10"
-    },
-    {
-      "id": "3570",
-      "relation": "3570",
-      "dicId": "3570",
-      "shortName": "モーセ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "モンコレDX",
-      "since": "2018/08/30"
-    },
-    {
-      "id": "5815",
-      "relation": "3570",
-      "dicId": "5815",
-      "shortName": "モーセ",
-      "form": "獣神化",
-      "formIdx": "1",
-      "element": "水",
-      "gacha": "モンコレDX",
-      "since": "2021/10/03"
-    },
-    {
-      "id": "5816",
-      "relation": "3570",
-      "dicId": "5816",
-      "shortName": "モーセ",
-      "form": "獣神化",
-      "formIdx": "2",
-      "element": "水",
-      "gacha": "モンコレDX",
-      "since": "2021/10/03"
-    },
-    {
-      "id": "3659",
-      "relation": "3659",
-      "dicId": "3659",
-      "shortName": "小野小町",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2018/10/13"
-    },
-    {
-      "id": "5847",
-      "relation": "3659",
-      "dicId": "5847",
-      "shortName": "小野小町",
-      "form": "獣神化",
-      "formIdx": "1",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2021/10/04"
-    },
-    {
-      "id": "5848",
-      "relation": "3659",
-      "dicId": "5848",
-      "shortName": "小野小町",
-      "form": "獣神化",
-      "formIdx": "2",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2021/10/04"
-    },
-    {
-      "id": "3811",
-      "relation": "3811",
-      "dicId": "3811",
-      "shortName": "ソロモン",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "モンコレDX",
-      "since": "2019/01/01"
-    },
-    {
-      "id": "6398",
-      "relation": "3811",
-      "dicId": "6250",
-      "shortName": "ソロモン",
-      "form": "獣神化",
-      "formIdx": "1",
-      "element": "光",
-      "gacha": "モンコレDX",
-      "since": "2022/07/12"
-    },
-    {
-      "id": "6399",
-      "relation": "3811",
-      "dicId": "6251",
-      "shortName": "ソロモン",
-      "form": "獣神化",
-      "formIdx": "2",
-      "element": "光",
-      "gacha": "モンコレDX",
-      "since": "2022/07/12"
-    },
-    {
-      "id": "3950",
-      "relation": "3950",
-      "dicId": "3950",
-      "shortName": "ワタツミ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2019/03/14"
-    },
-    {
-      "id": "6987",
-      "relation": "3950",
-      "dicId": "6346",
-      "shortName": "ワタツミ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2023/05/03"
-    },
-    {
-      "id": "4146",
-      "relation": "4146",
-      "dicId": "4145",
-      "shortName": "シャーロック・ホームズ",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンコレDX",
-      "since": "2019/06/29"
-    },
-    {
-      "id": "6138",
-      "relation": "4146",
-      "dicId": "6140",
-      "shortName": "シャーロック・ホームズ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "モンコレDX",
-      "since": "2022/03/12"
-    },
-    {
-      "id": "4175",
-      "relation": "4175",
-      "dicId": "4175",
-      "shortName": "Angely Diva",
-      "form": "進化前",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2019/07/13"
-    },
-    {
-      "id": "7129",
-      "relation": "4175",
-      "dicId": "6379",
-      "shortName": "Angely Diva",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2023/07/08"
-    },
-    {
       "id": "4239",
       "relation": "4239",
       "dicId": "4240",
@@ -1508,26 +870,15 @@
       "since": "2019/08/01"
     },
     {
-      "id": "6592",
-      "relation": "4239",
-      "dicId": "6282",
-      "shortName": "ツタンカーメン",
+      "id": "4264",
+      "relation": "2054",
+      "dicId": "4264",
+      "shortName": "ノア",
       "form": "獣神化",
-      "formIdx": "1",
-      "element": "木",
-      "gacha": "グリーンファンタジー",
-      "since": "2022/10/02"
-    },
-    {
-      "id": "6593",
-      "relation": "4239",
-      "dicId": "6283",
-      "shortName": "ツタンカーメン",
-      "form": "獣神化",
-      "formIdx": "2",
-      "element": "木",
-      "gacha": "グリーンファンタジー",
-      "since": "2022/10/02"
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2019/08/24"
     },
     {
       "id": "4315",
@@ -1552,17 +903,6 @@
       "since": "2019/09/27"
     },
     {
-      "id": "6277",
-      "relation": "4315",
-      "dicId": "6211",
-      "shortName": "媽祖",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "オリエンタル・トラベラーズ",
-      "since": "2022/05/24"
-    },
-    {
       "id": "4319",
       "relation": "4319",
       "dicId": "4319",
@@ -1583,17 +923,6 @@
       "element": "木",
       "gacha": "オリエンタル・トラベラーズ",
       "since": "2019/09/27"
-    },
-    {
-      "id": "6278",
-      "relation": "4319",
-      "dicId": "6212",
-      "shortName": "西王母",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "オリエンタル・トラベラーズ",
-      "since": "2022/05/24"
     },
     {
       "id": "4323",
@@ -1618,15 +947,37 @@
       "since": "2019/09/27"
     },
     {
-      "id": "5517",
-      "relation": "4323",
-      "dicId": "5521",
-      "shortName": "月麗",
+      "id": "4343",
+      "relation": "2722",
+      "dicId": "4327",
+      "shortName": "ノストラダムス",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンコレDX",
+      "since": "2019/10/05"
+    },
+    {
+      "id": "4345",
+      "relation": "1936",
+      "dicId": "4345",
+      "shortName": "ロビン・フッド",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2019/10/05"
+    },
+    {
+      "id": "4348",
+      "relation": "197",
+      "dicId": "4348",
+      "shortName": "ストライク",
       "form": "獣神化・改",
       "formIdx": "0",
-      "element": "闇",
-      "gacha": "オリエンタル・トラベラーズ",
-      "since": "2021/05/25"
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2019/10/08"
     },
     {
       "id": "4364",
@@ -1638,17 +989,6 @@
       "element": "闇",
       "gacha": "ミッドナイト・パーティー",
       "since": "2019/10/12"
-    },
-    {
-      "id": "6988",
-      "relation": "4364",
-      "dicId": "6347",
-      "shortName": "カエサル",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2023/05/04"
     },
     {
       "id": "4421",
@@ -1684,17 +1024,6 @@
       "since": "2019/12/09"
     },
     {
-      "id": "6226",
-      "relation": "4476",
-      "dicId": "6204",
-      "shortName": "アベル",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2022/04/28"
-    },
-    {
       "id": "4511",
       "relation": "4511",
       "dicId": "4511",
@@ -1704,17 +1033,6 @@
       "element": "火",
       "gacha": "モンコレDX",
       "since": "2020/01/01"
-    },
-    {
-      "id": "7307",
-      "relation": "4511",
-      "dicId": "6410",
-      "shortName": "エクスカリバー",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "モンコレDX",
-      "since": "2023/10/01"
     },
     {
       "id": "4514",
@@ -1728,15 +1046,26 @@
       "since": "2020/01/01"
     },
     {
-      "id": "5987",
-      "relation": "4514",
-      "dicId": "5987",
-      "shortName": "ビナー",
-      "form": "獣神化",
+      "id": "4540",
+      "relation": "191",
+      "dicId": "4548",
+      "shortName": "アグナムート",
+      "form": "獣神化・改",
       "formIdx": "0",
-      "element": "木",
-      "gacha": "モンコレDX",
-      "since": "2021/12/28"
+      "element": "火",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2020/01/14"
+    },
+    {
+      "id": "4541",
+      "relation": "280",
+      "dicId": "4549",
+      "shortName": "アグナムートX",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2020/01/14"
     },
     {
       "id": "4561",
@@ -1761,17 +1090,6 @@
       "since": "2020/01/25"
     },
     {
-      "id": "7042",
-      "relation": "4561",
-      "dicId": "6350",
-      "shortName": "楊貴妃",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "火",
-      "gacha": "オリエンタル・トラベラーズ",
-      "since": "2023/05/23"
-    },
-    {
       "id": "4565",
       "relation": "4565",
       "dicId": "4565",
@@ -1783,15 +1101,15 @@
       "since": "2020/01/25"
     },
     {
-      "id": "6792",
-      "relation": "4565",
-      "dicId": "6327",
-      "shortName": "武則天",
+      "id": "4587",
+      "relation": "2941",
+      "dicId": "4587",
+      "shortName": "ミロク",
       "form": "獣神化",
       "formIdx": "0",
-      "element": "闇",
-      "gacha": "オリエンタル・トラベラーズ",
-      "since": "2023/01/31"
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2020/02/11"
     },
     {
       "id": "4649",
@@ -1805,28 +1123,6 @@
       "since": "2020/03/07"
     },
     {
-      "id": "6588",
-      "relation": "4649",
-      "dicId": "6280",
-      "shortName": "風神雷神",
-      "form": "獣神化",
-      "formIdx": "1",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2022/10/02"
-    },
-    {
-      "id": "6589",
-      "relation": "4649",
-      "dicId": "6281",
-      "shortName": "風神雷神",
-      "form": "獣神化",
-      "formIdx": "2",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2022/10/02"
-    },
-    {
       "id": "4715",
       "relation": "4715",
       "dicId": "4715",
@@ -1838,15 +1134,15 @@
       "since": "2020/04/15"
     },
     {
-      "id": "6393",
-      "relation": "4715",
-      "dicId": "6245",
-      "shortName": "鬼丸国綱",
+      "id": "4740",
+      "relation": "2749",
+      "dicId": "4740",
+      "shortName": "Two for all",
       "form": "獣神化",
       "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2022/07/10"
+      "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2020/04/25"
     },
     {
       "id": "4781",
@@ -1869,17 +1165,6 @@
       "element": "光",
       "gacha": "オリエンタル・トラベラーズ",
       "since": "2020/05/15"
-    },
-    {
-      "id": "7043",
-      "relation": "4781",
-      "dicId": "6351",
-      "shortName": "王昭君",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "オリエンタル・トラベラーズ",
-      "since": "2023/05/23"
     },
     {
       "id": "4785",
@@ -1915,17 +1200,6 @@
       "since": "2020/05/23"
     },
     {
-      "id": "6395",
-      "relation": "4807",
-      "dicId": "6247",
-      "shortName": "三日月宗近",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "グリーンファンタジー",
-      "since": "2022/07/10"
-    },
-    {
       "id": "4811",
       "relation": "4811",
       "dicId": "4811",
@@ -1935,17 +1209,6 @@
       "element": "光",
       "gacha": "超・獣神祭",
       "since": "2020/05/30"
-    },
-    {
-      "id": "6734",
-      "relation": "4811",
-      "dicId": "6318",
-      "shortName": "アミダ",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "超・獣神祭",
-      "since": "2022/12/28"
     },
     {
       "id": "4858",
@@ -1959,17 +1222,6 @@
       "since": "2020/06/20"
     },
     {
-      "id": "6394",
-      "relation": "4858",
-      "dicId": "6246",
-      "shortName": "童子切安綱",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2022/07/10"
-    },
-    {
       "id": "4886",
       "relation": "4886",
       "dicId": "4884",
@@ -1981,15 +1233,37 @@
       "since": "2020/07/11"
     },
     {
-      "id": "7130",
-      "relation": "4886",
-      "dicId": "6380",
-      "shortName": "幕末リザレクション",
+      "id": "4889",
+      "relation": "2397",
+      "dicId": "4889",
+      "shortName": "パンドラ",
       "form": "獣神化",
       "formIdx": "0",
-      "element": "木",
-      "gacha": "グリーンファンタジー",
-      "since": "2023/07/08"
+      "element": "闇",
+      "gacha": "モンコレDX",
+      "since": "2020/07/11"
+    },
+    {
+      "id": "4893",
+      "relation": "929",
+      "dicId": "4893",
+      "shortName": "ウリエル",
+      "form": "獣神化・改",
+      "formIdx": "1",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2020/07/14"
+    },
+    {
+      "id": "4894",
+      "relation": "929",
+      "dicId": "4894",
+      "shortName": "ウリエル",
+      "form": "獣神化・改",
+      "formIdx": "2",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2020/07/14"
     },
     {
       "id": "4942",
@@ -2003,15 +1277,15 @@
       "since": "2020/08/08"
     },
     {
-      "id": "7135",
-      "relation": "4942",
-      "dicId": "6381",
-      "shortName": "ラプラス",
-      "form": "獣神化",
+      "id": "4947",
+      "relation": "559",
+      "dicId": "4945",
+      "shortName": "ナポレオン",
+      "form": "獣神化・改",
       "formIdx": "0",
-      "element": "火",
-      "gacha": "RED STARS",
-      "since": "2023/07/12"
+      "element": "水",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2020/08/11"
     },
     {
       "id": "4971",
@@ -2025,17 +1299,6 @@
       "since": "2020/08/22"
     },
     {
-      "id": "6396",
-      "relation": "4971",
-      "dicId": "6248",
-      "shortName": "大典太光世",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "光",
-      "gacha": "STARLIGHT MIRAGE",
-      "since": "2022/07/10"
-    },
-    {
       "id": "5028",
       "relation": "5028",
       "dicId": "5028",
@@ -2045,17 +1308,6 @@
       "element": "闇",
       "gacha": "ミッドナイト・パーティー",
       "since": "2020/09/19"
-    },
-    {
-      "id": "6397",
-      "relation": "5028",
-      "dicId": "6249",
-      "shortName": "数珠丸恒次",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2022/07/10"
     },
     {
       "id": "5033",
@@ -2069,15 +1321,59 @@
       "since": "2020/09/28"
     },
     {
-      "id": "7313",
-      "relation": "5033",
-      "dicId": "6407",
-      "shortName": "ハレルヤ",
+      "id": "5053",
+      "relation": "3242",
+      "dicId": "5053",
+      "shortName": "弁財天",
       "form": "獣神化",
+      "formIdx": "1",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2020/10/03"
+    },
+    {
+      "id": "5055",
+      "relation": "3242",
+      "dicId": "5055",
+      "shortName": "弁財天",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2020/10/03"
+    },
+    {
+      "id": "5057",
+      "relation": "3086",
+      "dicId": "5057",
+      "shortName": "マナ",
+      "form": "獣神化",
+      "formIdx": "1",
+      "element": "火",
+      "gacha": "モンコレDX",
+      "since": "2020/10/04"
+    },
+    {
+      "id": "5058",
+      "relation": "3086",
+      "dicId": "5058",
+      "shortName": "マナ",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "火",
+      "gacha": "モンコレDX",
+      "since": "2020/10/04"
+    },
+    {
+      "id": "5090",
+      "relation": "257",
+      "dicId": "5090",
+      "shortName": "ハーレーX",
+      "form": "獣神化・改",
       "formIdx": "0",
-      "element": "水",
-      "gacha": "超・獣神祭",
-      "since": "2023/10/03"
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2020/10/05"
     },
     {
       "id": "5093",
@@ -2091,17 +1387,6 @@
       "since": "2020/10/16"
     },
     {
-      "id": "7316",
-      "relation": "5093",
-      "dicId": "6408",
-      "shortName": "閻魔",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2023/10/05"
-    },
-    {
       "id": "5225",
       "relation": "5225",
       "dicId": "5225",
@@ -2111,17 +1396,6 @@
       "element": "木",
       "gacha": "グリーンファンタジー",
       "since": "2020/12/12"
-    },
-    {
-      "id": "6899",
-      "relation": "5225",
-      "dicId": "6337",
-      "shortName": "まほろば",
-      "form": "獣神化",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "グリーンファンタジー",
-      "since": "2023/03/18"
     },
     {
       "id": "5259",
@@ -2201,17 +1475,6 @@
       "since": "2021/02/12"
     },
     {
-      "id": "7558",
-      "relation": "5337",
-      "dicId": "6467",
-      "shortName": "西施",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "木",
-      "gacha": "オリエンタル・トラベラーズ",
-      "since": "2024/02/10"
-    },
-    {
       "id": "5358",
       "relation": "5358",
       "dicId": "5358",
@@ -2234,6 +1497,17 @@
       "since": "2021/02/20"
     },
     {
+      "id": "5360",
+      "relation": "2746",
+      "dicId": "5360",
+      "shortName": "背徳ピストルズ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2021/02/23"
+    },
+    {
       "id": "5385",
       "relation": "5385",
       "dicId": "5385",
@@ -2245,15 +1519,26 @@
       "since": "2021/03/07"
     },
     {
-      "id": "7561",
+      "id": "5386",
       "relation": "5385",
-      "dicId": "6471",
+      "dicId": "5386",
       "shortName": "オニャンコポン",
       "form": "獣神化",
-      "formIdx": "0",
+      "formIdx": "1",
       "element": "光",
       "gacha": "STARLIGHT MIRAGE",
-      "since": "2024/02/12"
+      "since": "2021/03/07"
+    },
+    {
+      "id": "5387",
+      "relation": "5385",
+      "dicId": "5387",
+      "shortName": "オニャンコポン",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2021/03/07"
     },
     {
       "id": "5459",
@@ -2276,6 +1561,28 @@
       "element": "水",
       "gacha": "水の遊宴",
       "since": "2021/04/23"
+    },
+    {
+      "id": "5463",
+      "relation": "3387",
+      "dicId": "5463",
+      "shortName": "石川五右衛門",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンコレDX",
+      "since": "2021/04/25"
+    },
+    {
+      "id": "5517",
+      "relation": "4323",
+      "dicId": "5521",
+      "shortName": "月麗",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "オリエンタル・トラベラーズ",
+      "since": "2021/05/25"
     },
     {
       "id": "5518",
@@ -2355,6 +1662,105 @@
       "since": "2021/07/10"
     },
     {
+      "id": "5608",
+      "relation": "3450",
+      "dicId": "5608",
+      "shortName": "デビルズ・パンク・インフェルノ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2021/07/10"
+    },
+    {
+      "id": "5610",
+      "relation": "3329",
+      "dicId": "5610",
+      "shortName": "カマエル",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2021/07/11"
+    },
+    {
+      "id": "5612",
+      "relation": "3316",
+      "dicId": "5612",
+      "shortName": "ラミエル",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2021/07/11"
+    },
+    {
+      "id": "5614",
+      "relation": "3299",
+      "dicId": "5614",
+      "shortName": "ザドキエル",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "グリーンファンタジー",
+      "since": "2021/07/11"
+    },
+    {
+      "id": "5616",
+      "relation": "3280",
+      "dicId": "5616",
+      "shortName": "サンダルフォン",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2021/07/11"
+    },
+    {
+      "id": "5617",
+      "relation": "3294",
+      "dicId": "5617",
+      "shortName": "メタトロン",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2021/07/11"
+    },
+    {
+      "id": "5623",
+      "relation": "1683",
+      "dicId": "5623",
+      "shortName": "デッドラビッツLtd.",
+      "form": "獣神化・改",
+      "formIdx": "1",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2021/07/14"
+    },
+    {
+      "id": "5624",
+      "relation": "1683",
+      "dicId": "5624",
+      "shortName": "デッドラビッツLtd.",
+      "form": "獣神化・改",
+      "formIdx": "2",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2021/07/14"
+    },
+    {
+      "id": "5667",
+      "relation": "871",
+      "dicId": "5667",
+      "shortName": "クレオパトラ",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2021/07/27"
+    },
+    {
       "id": "5727",
       "relation": "5727",
       "dicId": "5727",
@@ -2386,17 +1792,6 @@
       "element": "水",
       "gacha": "水の遊宴",
       "since": "2021/08/07"
-    },
-    {
-      "id": "7476",
-      "relation": "5727",
-      "dicId": "6454",
-      "shortName": "アナスタシア",
-      "form": "獣神化・改",
-      "formIdx": "0",
-      "element": "水",
-      "gacha": "水の遊宴",
-      "since": "2023/12/28"
     },
     {
       "id": "5806",
@@ -2432,6 +1827,61 @@
       "since": "2021/09/29"
     },
     {
+      "id": "5815",
+      "relation": "3570",
+      "dicId": "5815",
+      "shortName": "モーセ",
+      "form": "獣神化",
+      "formIdx": "1",
+      "element": "水",
+      "gacha": "モンコレDX",
+      "since": "2021/10/03"
+    },
+    {
+      "id": "5816",
+      "relation": "3570",
+      "dicId": "5816",
+      "shortName": "モーセ",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "水",
+      "gacha": "モンコレDX",
+      "since": "2021/10/03"
+    },
+    {
+      "id": "5847",
+      "relation": "3659",
+      "dicId": "5847",
+      "shortName": "小野小町",
+      "form": "獣神化",
+      "formIdx": "1",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2021/10/04"
+    },
+    {
+      "id": "5848",
+      "relation": "3659",
+      "dicId": "5848",
+      "shortName": "小野小町",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2021/10/04"
+    },
+    {
+      "id": "5851",
+      "relation": "364",
+      "dicId": "5851",
+      "shortName": "アポロX",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2021/10/05"
+    },
+    {
       "id": "5862",
       "relation": "5862",
       "dicId": "5862",
@@ -2463,6 +1913,17 @@
       "element": "火",
       "gacha": "RED STARS",
       "since": "2021/10/16"
+    },
+    {
+      "id": "5866",
+      "relation": "2142",
+      "dicId": "5866",
+      "shortName": "キスキル・リラ",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2021/10/19"
     },
     {
       "id": "5902",
@@ -2520,6 +1981,17 @@
       "since": "2021/12/11"
     },
     {
+      "id": "5979",
+      "relation": "893",
+      "dicId": "5979",
+      "shortName": "ラファエル",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2021/12/24"
+    },
+    {
       "id": "5982",
       "relation": "5982",
       "dicId": "5982",
@@ -2540,6 +2012,17 @@
       "element": "火",
       "gacha": "RED STARS",
       "since": "2021/12/25"
+    },
+    {
+      "id": "5987",
+      "relation": "4514",
+      "dicId": "5987",
+      "shortName": "ビナー",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンコレDX",
+      "since": "2021/12/28"
     },
     {
       "id": "5989",
@@ -2674,6 +2157,28 @@
       "since": "2022/03/05"
     },
     {
+      "id": "6138",
+      "relation": "4146",
+      "dicId": "6140",
+      "shortName": "シャーロック・ホームズ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンコレDX",
+      "since": "2022/03/12"
+    },
+    {
+      "id": "6142",
+      "relation": "825",
+      "dicId": "6142",
+      "shortName": "チンギス・ハン",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2022/03/13"
+    },
+    {
       "id": "6200",
       "relation": "6200",
       "dicId": "6200",
@@ -2696,6 +2201,28 @@
       "since": "2022/04/09"
     },
     {
+      "id": "6224",
+      "relation": "969",
+      "dicId": "6203",
+      "shortName": "ジャンヌ・ダルク",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2022/04/27"
+    },
+    {
+      "id": "6226",
+      "relation": "4476",
+      "dicId": "6204",
+      "shortName": "アベル",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2022/04/28"
+    },
+    {
       "id": "6275",
       "relation": "6275",
       "dicId": "6213",
@@ -2716,6 +2243,28 @@
       "element": "火",
       "gacha": "RED STARS",
       "since": "2022/05/21"
+    },
+    {
+      "id": "6277",
+      "relation": "4315",
+      "dicId": "6211",
+      "shortName": "媽祖",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "オリエンタル・トラベラーズ",
+      "since": "2022/05/24"
+    },
+    {
+      "id": "6278",
+      "relation": "4319",
+      "dicId": "6212",
+      "shortName": "西王母",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "オリエンタル・トラベラーズ",
+      "since": "2022/05/24"
     },
     {
       "id": "6307",
@@ -2806,6 +2355,116 @@
       "since": "2022/07/09"
     },
     {
+      "id": "6391",
+      "relation": "1733",
+      "dicId": "6244",
+      "shortName": "ダルタニャン",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2022/07/09"
+    },
+    {
+      "id": "6393",
+      "relation": "4715",
+      "dicId": "6245",
+      "shortName": "鬼丸国綱",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2022/07/10"
+    },
+    {
+      "id": "6394",
+      "relation": "4858",
+      "dicId": "6246",
+      "shortName": "童子切安綱",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2022/07/10"
+    },
+    {
+      "id": "6395",
+      "relation": "4807",
+      "dicId": "6247",
+      "shortName": "三日月宗近",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "グリーンファンタジー",
+      "since": "2022/07/10"
+    },
+    {
+      "id": "6396",
+      "relation": "4971",
+      "dicId": "6248",
+      "shortName": "大典太光世",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2022/07/10"
+    },
+    {
+      "id": "6397",
+      "relation": "5028",
+      "dicId": "6249",
+      "shortName": "数珠丸恒次",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2022/07/10"
+    },
+    {
+      "id": "6398",
+      "relation": "3811",
+      "dicId": "6250",
+      "shortName": "ソロモン",
+      "form": "獣神化",
+      "formIdx": "1",
+      "element": "光",
+      "gacha": "モンコレDX",
+      "since": "2022/07/12"
+    },
+    {
+      "id": "6399",
+      "relation": "3811",
+      "dicId": "6251",
+      "shortName": "ソロモン",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "光",
+      "gacha": "モンコレDX",
+      "since": "2022/07/12"
+    },
+    {
+      "id": "6407",
+      "relation": "1718",
+      "dicId": "6253",
+      "shortName": "ジキル＆ハイド",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2022/07/15"
+    },
+    {
+      "id": "6452",
+      "relation": "1387",
+      "dicId": "6254",
+      "shortName": "卑弥呼",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2022/08/02"
+    },
+    {
       "id": "6455",
       "relation": "6455",
       "dicId": "6256",
@@ -2870,6 +2529,72 @@
       "element": "火",
       "gacha": "超・獣神祭",
       "since": "2022/09/29"
+    },
+    {
+      "id": "6586",
+      "relation": "374",
+      "dicId": "6279",
+      "shortName": "ランスロットX",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2022/10/02"
+    },
+    {
+      "id": "6588",
+      "relation": "4649",
+      "dicId": "6280",
+      "shortName": "風神雷神",
+      "form": "獣神化",
+      "formIdx": "1",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2022/10/02"
+    },
+    {
+      "id": "6589",
+      "relation": "4649",
+      "dicId": "6281",
+      "shortName": "風神雷神",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2022/10/02"
+    },
+    {
+      "id": "6592",
+      "relation": "4239",
+      "dicId": "6282",
+      "shortName": "ツタンカーメン",
+      "form": "獣神化",
+      "formIdx": "1",
+      "element": "木",
+      "gacha": "グリーンファンタジー",
+      "since": "2022/10/02"
+    },
+    {
+      "id": "6593",
+      "relation": "4239",
+      "dicId": "6283",
+      "shortName": "ツタンカーメン",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "木",
+      "gacha": "グリーンファンタジー",
+      "since": "2022/10/02"
+    },
+    {
+      "id": "6598",
+      "relation": "510",
+      "dicId": "6284",
+      "shortName": "アリス",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2022/10/02"
     },
     {
       "id": "6625",
@@ -2949,6 +2674,28 @@
       "since": "2022/12/10"
     },
     {
+      "id": "6729",
+      "relation": "890",
+      "dicId": "6314",
+      "shortName": "ミカエル",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2022/12/24"
+    },
+    {
+      "id": "6734",
+      "relation": "4811",
+      "dicId": "6318",
+      "shortName": "アミダ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "超・獣神祭",
+      "since": "2022/12/28"
+    },
+    {
       "id": "6736",
       "relation": "6736",
       "dicId": "6319",
@@ -2980,6 +2727,17 @@
       "element": "木",
       "gacha": "超・獣神祭",
       "since": "2023/01/01"
+    },
+    {
+      "id": "6792",
+      "relation": "4565",
+      "dicId": "6327",
+      "shortName": "武則天",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "オリエンタル・トラベラーズ",
+      "since": "2023/01/31"
     },
     {
       "id": "6806",
@@ -3037,6 +2795,61 @@
       "since": "2023/03/10"
     },
     {
+      "id": "6899",
+      "relation": "5225",
+      "dicId": "6337",
+      "shortName": "まほろば",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "グリーンファンタジー",
+      "since": "2023/03/18"
+    },
+    {
+      "id": "6900",
+      "relation": "368",
+      "dicId": "6336",
+      "shortName": "織田信長X",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2023/03/19"
+    },
+    {
+      "id": "6987",
+      "relation": "3950",
+      "dicId": "6346",
+      "shortName": "ワタツミ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2023/05/03"
+    },
+    {
+      "id": "6988",
+      "relation": "4364",
+      "dicId": "6347",
+      "shortName": "カエサル",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2023/05/04"
+    },
+    {
+      "id": "6989",
+      "relation": "2572",
+      "dicId": "6345",
+      "shortName": "ワルプルギス",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2023/05/05"
+    },
+    {
       "id": "7039",
       "relation": "7039",
       "dicId": "6352",
@@ -3057,6 +2870,28 @@
       "element": "水",
       "gacha": "水の遊宴",
       "since": "2023/05/20"
+    },
+    {
+      "id": "7042",
+      "relation": "4561",
+      "dicId": "6350",
+      "shortName": "楊貴妃",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "オリエンタル・トラベラーズ",
+      "since": "2023/05/23"
+    },
+    {
+      "id": "7043",
+      "relation": "4781",
+      "dicId": "6351",
+      "shortName": "王昭君",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "オリエンタル・トラベラーズ",
+      "since": "2023/05/23"
     },
     {
       "id": "7049",
@@ -3147,6 +2982,61 @@
       "since": "2023/07/08"
     },
     {
+      "id": "7129",
+      "relation": "4175",
+      "dicId": "6379",
+      "shortName": "Angely Diva",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2023/07/08"
+    },
+    {
+      "id": "7130",
+      "relation": "4886",
+      "dicId": "6380",
+      "shortName": "幕末リザレクション",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "グリーンファンタジー",
+      "since": "2023/07/08"
+    },
+    {
+      "id": "7131",
+      "relation": "1030",
+      "dicId": "6383",
+      "shortName": "ルシファー",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2023/07/09"
+    },
+    {
+      "id": "7135",
+      "relation": "4942",
+      "dicId": "6381",
+      "shortName": "ラプラス",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "RED STARS",
+      "since": "2023/07/12"
+    },
+    {
+      "id": "7137",
+      "relation": "1249",
+      "dicId": "6382",
+      "shortName": "天草四郎",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2023/07/13"
+    },
+    {
       "id": "7193",
       "relation": "7193",
       "dicId": "6395",
@@ -3200,6 +3090,94 @@
       "element": "木",
       "gacha": "グリーンファンタジー",
       "since": "2023/09/23"
+    },
+    {
+      "id": "7280",
+      "relation": "1590",
+      "dicId": "6404",
+      "shortName": "妲己",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "モンストジェネレーション 2015",
+      "since": "2023/09/30"
+    },
+    {
+      "id": "7307",
+      "relation": "4511",
+      "dicId": "6410",
+      "shortName": "エクスカリバー",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "火",
+      "gacha": "モンコレDX",
+      "since": "2023/10/01"
+    },
+    {
+      "id": "7309",
+      "relation": "1742",
+      "dicId": "6411",
+      "shortName": "ガブリエル",
+      "form": "獣神化・改",
+      "formIdx": "1",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2023/10/02"
+    },
+    {
+      "id": "7310",
+      "relation": "1742",
+      "dicId": "6412",
+      "shortName": "ガブリエル",
+      "form": "獣神化・改",
+      "formIdx": "2",
+      "element": "木",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2023/10/02"
+    },
+    {
+      "id": "7313",
+      "relation": "5033",
+      "dicId": "6407",
+      "shortName": "ハレルヤ",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "超・獣神祭",
+      "since": "2023/10/03"
+    },
+    {
+      "id": "7314",
+      "relation": "1745",
+      "dicId": "6409",
+      "shortName": "神威",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2016",
+      "since": "2023/10/04"
+    },
+    {
+      "id": "7316",
+      "relation": "5093",
+      "dicId": "6408",
+      "shortName": "閻魔",
+      "form": "獣神化",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2023/10/05"
+    },
+    {
+      "id": "7322",
+      "relation": "197",
+      "dicId": "6414",
+      "shortName": "ストライク",
+      "form": "真獣神化",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "モンストジェネレーション 2013&2014",
+      "since": "2023/10/07"
     },
     {
       "id": "7366",
@@ -3290,7 +3268,18 @@
       "since": "2023/12/08"
     },
     {
-      "id": "7453",
+      "id": "7462",
+      "relation": "7462",
+      "dicId": "6450",
+      "shortName": "水戸光圀",
+      "form": "獣神化前",
+      "formIdx": "0",
+      "element": "闇",
+      "gacha": "ミッドナイト・パーティー",
+      "since": "2023/12/22"
+    },
+    {
+      "id": "7463",
       "relation": "7462",
       "dicId": "6451",
       "shortName": "水戸光圀",
@@ -3301,15 +3290,26 @@
       "since": "2023/12/22"
     },
     {
-      "id": "7462",
-      "relation": "7462",
-      "dicId": "6450",
-      "shortName": "水戸光圀",
-      "form": "獣神化前",
+      "id": "7468",
+      "relation": "2941",
+      "dicId": "6453",
+      "shortName": "ミロク",
+      "form": "獣神化・改",
       "formIdx": "0",
-      "element": "闇",
-      "gacha": "ミッドナイト・パーティー",
-      "since": "2023/12/22"
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2023/12/25"
+    },
+    {
+      "id": "7476",
+      "relation": "5727",
+      "dicId": "6454",
+      "shortName": "アナスタシア",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "水",
+      "gacha": "水の遊宴",
+      "since": "2023/12/28"
     },
     {
       "id": "7480",
@@ -3367,6 +3367,17 @@
       "since": "2024/02/03"
     },
     {
+      "id": "7558",
+      "relation": "5337",
+      "dicId": "6467",
+      "shortName": "西施",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "木",
+      "gacha": "オリエンタル・トラベラーズ",
+      "since": "2024/02/10"
+    },
+    {
       "id": "7559",
       "relation": "7559",
       "dicId": "6468",
@@ -3387,6 +3398,50 @@
       "element": "水",
       "gacha": "オリエンタル・トラベラーズ",
       "since": "2024/02/10"
+    },
+    {
+      "id": "7561",
+      "relation": "5385",
+      "dicId": "6471",
+      "shortName": "オニャンコポン",
+      "form": "獣神化・改",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "STARLIGHT MIRAGE",
+      "since": "2024/02/12"
+    },
+    {
+      "id": "7607",
+      "relation": "7607",
+      "dicId": "6478",
+      "shortName": "ゲキリン",
+      "form": "獣神化前",
+      "formIdx": "0",
+      "element": "光",
+      "gacha": "激・獣神祭",
+      "since": "2024/03/08"
+    },
+    {
+      "id": "7608",
+      "relation": "7607",
+      "dicId": "6479",
+      "shortName": "ゲキリン",
+      "form": "獣神化",
+      "formIdx": "1",
+      "element": "光",
+      "gacha": "激・獣神祭",
+      "since": "2024/03/08"
+    },
+    {
+      "id": "7609",
+      "relation": "7607",
+      "dicId": "6480",
+      "shortName": "ゲキリン",
+      "form": "獣神化",
+      "formIdx": "2",
+      "element": "光",
+      "gacha": "激・獣神祭",
+      "since": "2024/03/08"
     }
   ]
 }
